@@ -1,6 +1,6 @@
 ---
 name: LinksHub
-desc: LinksHub is a Hub of ready-to-use tech resouces.
+desc: LinksHub is a Hub of ready-to-use tech resources.
 site: https://linkshub.dev
 tags:
 - nextjs
@@ -12,4 +12,4 @@ upforgrabs:
   link: https://github.com/rupali-codes/LinksHub/labels/up%20for%20grabs
 stats:
   issue-count: 0
-  fork-count: 478
+  fork-count: 590
