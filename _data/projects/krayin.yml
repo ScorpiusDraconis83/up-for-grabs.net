@@ -11,6 +11,5 @@ upforgrabs:
   name: Help Wanted
   link: https://github.com/krayin/laravel-crm/labels/Help%20Wanted
 stats:
-  issue-count: 4
-  last-updated: '2023-10-01T12:33:57Z'
-  fork-count: 432
+  issue-count: 0
+  fork-count: 914

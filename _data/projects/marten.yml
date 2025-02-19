@@ -10,6 +10,5 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/JasperFx/marten/labels/up-for-grabs
 stats:
-  issue-count: 2
-  last-updated: '2023-12-15T00:27:39Z'
-  fork-count: 397
+  issue-count: 0
+  fork-count: 470
